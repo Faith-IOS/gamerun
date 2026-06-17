@@ -1,0 +1,6 @@
+{
+  "name": "Teachable 8-Bit Runner",
+  "description": "An 8-bit endless runner platformer inspired by the Google Chrome Dino game, controlled by Teachable Machine pose/image gestures or keyboard shortcuts.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
